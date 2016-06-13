@@ -17,5 +17,5 @@ Another concept I learned is the overhall definition of "relative path" when try
 *Understanding the figure element was a bit difficult for me. Using the figure suntax in order to put an image and a paragrapgh in an orderly manner.
 Aslo figuring this <p>By <strong><em>Christopher Watkins</em></strong></p> in the Format Simple Article was strangely hard to remember
 
-*I have used MDN to reserch syntax I did not know yet like: strike, horizontal rule, and superscrip
+*I have used MDN to reserch syntax I did not know yet like: strikethrough, horizontal rule, and superscrip
 I also took notes of new elements I learned like the figure inorder to stuy and remmber them.
