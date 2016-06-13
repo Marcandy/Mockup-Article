@@ -1,2 +1,2 @@
 # Mockup-Article
-translating a mockup to HTML
+converting a mockup of a website to HTML
